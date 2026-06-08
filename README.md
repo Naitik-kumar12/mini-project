@@ -148,7 +148,9 @@ After completing this project, you will be able to:
 
 ## Author
 
-Naitik Kumar
+RESHMA PRADHAN
+NOOR SABA 
+NAITIK KUMAR
 
 ## License
 
