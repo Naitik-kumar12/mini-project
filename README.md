@@ -148,8 +148,8 @@ After completing this project, you will be able to:
 
 ## Author
 
-RESHMA PRADHAN
-NOOR SABA 
+RESHMA PRADHAN,
+NOOR SABA ,
 NAITIK KUMAR
 
 ## License
